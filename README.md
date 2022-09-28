@@ -9,5 +9,7 @@ I'm the lead organizer (jointly with Paul Fahey from [the Baylor College of Medi
 
 
 Follow me on:
-:dove_of_peace: https://twitter.com/KonstantinWille
-:mortar_board: https://scholar.google.com/citations?user=sc3jZTsAAAAJ&hl=en
+
+[twitter](https://twitter.com/KonstantinWille)
+
+:mortar_board:[Google scholar](https://scholar.google.com/citations?user=sc3jZTsAAAAJ&hl=en)
